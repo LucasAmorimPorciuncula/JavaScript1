@@ -1,3 +1,9 @@
-idade = 45
+anoNascimento = 2004
 
-alert("Eu tenho " + idade + " anos")
+idade = 2024 - anoNascimento
+
+nome = "Lucas"
+
+mensagem = "Sou " + nome + " e tenho " + idade + " anos"
+
+alert(mensagem)
